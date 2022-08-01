@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "H:/Python 400 ¼¯/Chapter07  Òì³£/11.trackbackÄ£¿é.py", line 16, in <module>
+    num = 1/0
+ZeroDivisionError: division by zero

@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="4" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b0a8f31-3e60-421b-b66b-9c3612c0211b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ElmWorkspace">
+    <elmProjects />
+    <settings elmCompilerPath="" elmFormatPath="" elmTestPath="" isElmFormatOnSaveEnabled="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter11  GUI编程(中)/03.通过布局管理器制作计算器界面.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter11  GUI编程(中)/04.pack布局管理器练习.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter11  GUI编程(中)/05.place布局管理器的使用.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter11  GUI编程(中)/06.扑克牌游戏界面的设计.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter11  GUI编程(中)/07.键盘事件和鼠标事件.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter11  GUI编程(中)/08.使用lambda表达式帮助传参.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter12  GUI编程(下)/03.颜色选择框.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter12  GUI编程(下)/08.记事本项目.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3034">
+              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapter24  pillow图像处理/17.ImageFont的使用.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapter24  pillow图像处理/16.在原图片上进行绘制图形.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Chapter19  网络编程/09.TCP多线程完成聊天客户端.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter18  并发编程/19.线程共享中的变量赋值问题.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter24  pillow图像处理/13.调整图像的亮度.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter21  数据结构/07二叉树的实现.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter18  并发编程/09.阻塞状态下的进程池的使用.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter25  人脸识别/03.修改图像尺寸.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter12  GUI编程(下)/09.画图项目.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter25  人脸识别/04.在图像上绘制矩形和园.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter18  并发编程/17.使用继承的方式创建线程.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter19  网络编程/04.TFTP下载器客户端.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter26  语音识别/04.使用PocketSphinx实现语音转换文本.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter18  并发编程/06.创建多个进程.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter25  人脸识别/05.人脸检测.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter18  并发编程/03.给子进程传递参数.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter26  语音识别/03.使用SpeechLib实现文本转语音.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter22  函数式编程和高阶函数/04.高阶函数map传递两个列表参数的情况.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter30  Python操作Excel存储数据/21.绘制散点图.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter22  函数式编程和高阶函数/02.高阶函数  map.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter09  模块/03.SalaryTest.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter20  算法/07归并排序.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter18  并发编程/20.互斥锁.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter30  Python操作Excel存储数据/20.绘制气泡图.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter18  并发编程/05.进程自身的属性.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter01  Python入门/05.海龟绘图.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter30  Python操作Excel存储数据/17.拆分单元格.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter30  Python操作Excel存储数据/19.绘制柱状图.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter24  pillow图像处理/07.图像的旋转.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter24  pillow图像处理/15.创建图片并绘制.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter15  数据库编程/14.操作MySQL数据库删除数据.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter24  pillow图像处理/12.调整图像的色彩.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter15  数据库编程/12.操作MySQL数据库插入多条数据.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter30  Python操作Excel存储数据/09.获取列名与列数之间的关系.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter24  pillow图像处理/19.绘制验证码.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter12  GUI编程(下)/03.颜色选择框.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter24  pillow图像处理/21.将图片里面的黄色修改为红色.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter24  pillow图像处理/11.图像的合成.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter24  pillow图像处理/18.在图片上面绘制十字.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter24  pillow图像处理/09.为图像添加滤镜.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter24  pillow图像处理/20.绘制九宫格.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter25  人脸识别/06.检测多张人脸.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter22  函数式编程和高阶函数/05.高阶函数reduce().py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter02  内置数据类型/04.变量的声明和赋值以及删除.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter23  正则表达式/04重复数量符号.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter19  网络编程/08.使用多线程完成聊天服务器端.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter18  并发编程/13.进程池所创建进程的通信.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter06  面向对象和内存分析/36.设计模式--单例模式.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter22  函数式编程和高阶函数/13.装饰器的基本使用.py" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Chapter03  序列/03.字典/06.字典元素的添加.py" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Chapter08  文件/01.文本文件的写入.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/02.文件写入中的中文编码问题.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/03.writelines.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/04.close()关闭文件流.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/05.with语句.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/06.文件的读取.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/07.为文件的每一行加上行号.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/08.二进制文件的拷贝.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/09.文件对象的属性.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/10.pickle().py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/11.序列化.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/12.反序列化.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/13.序列化与反序列化的总和使用.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/14.csv的读取.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/15.csv文件的写入.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/16.使用os.system调用windows程序.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/17.os.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/18.os.path.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/19.联系.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/20.walk().py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/21.shutil.py" />
+        <option value="$PROJECT_DIR$/Chapter08  文件/22.目录树结构的展示.py" />
+        <option value="$PROJECT_DIR$/Chapter09  模块/01.使用math模块.py" />
+        <option value="$PROJECT_DIR$/Chapter09  模块/02.关于导数包的细节.py" />
+        <option value="$PROJECT_DIR$/Chapter09  模块/04. from…import 导入.py" />
+        <option value="$PROJECT_DIR$/Chapter09  模块/05.import与from...import的区别.py" />
+        <option value="$PROJECT_DIR$/Chapter09  模块/03.SalaryTest.py" />
+        <option value="$PROJECT_DIR$/Chapter09  模块/06.__import__().py" />
+        <option value="$PROJECT_DIR$/Chapter09  模块/07.importlib.py" />
+        <option value="$PROJECT_DIR$/Chapter09  模块/08.关于模块导入的其他问题.py" />
+        <option value="$PROJECT_DIR$/Chapter09  模块/09.模糊导入.py" />
+        <option value="$PROJECT_DIR$/Chapter09  模块/10.__all__.py" />
+        <option value="$PROJECT_DIR$/Chapter09  模块/Calculator.py" />
+        <option value="$PROJECT_DIR$/Chapter09  模块/Salary.py" />
+        <option value="$PROJECT_DIR$/Chapter09  模块/Test.py" />
+        <option value="$PROJECT_DIR$/Chapter10  GUI编程(上)/01.第一个tkinter程序.py" />
+        <option value="$PROJECT_DIR$/Chapter10  GUI编程(上)/02.主窗口的大小和位置·.py" />
+        <option value="$PROJECT_DIR$/Chapter10  GUI编程(上)/03.面向对象的方式编写GUI程序.py" />
+        <option value="$PROJECT_DIR$/Chapter10  GUI编程(上)/04.Label组件.py" />
+        <option value="$PROJECT_DIR$/Chapter10  GUI编程(上)/05.Button组件.py" />
+        <option value="$PROJECT_DIR$/Chapter10  GUI编程(上)/06.Entry组件.py" />
+        <option value="$PROJECT_DIR$/Chapter10  GUI编程(上)/07.Text组件.py" />
+        <option value="$PROJECT_DIR$/Chapter10  GUI编程(上)/08.Radiobutton组件.py" />
+        <option value="$PROJECT_DIR$/Chapter10  GUI编程(上)/09.Checkbutton组件.py" />
+        <option value="$PROJECT_DIR$/Chapter11  GUI编程(中)/01.Canvas的使用.py" />
+        <option value="$PROJECT_DIR$/Chapter11  GUI编程(中)/02.初识布局管理器.py" />
+        <option value="$PROJECT_DIR$/Chapter11  GUI编程(中)/03.通过布局管理器制作计算器界面.py" />
+        <option value="$PROJECT_DIR$/Chapter11  GUI编程(中)/04.pack布局管理器练习.py" />
+        <option value="$PROJECT_DIR$/Chapter11  GUI编程(中)/05.place布局管理器的使用.py" />
+        <option value="$PROJECT_DIR$/Chapter12  GUI编程(下)/03.颜色选择框.py" />
+        <option value="$PROJECT_DIR$/Chapter24  pillow图像处理/16.在原图片上进行绘制图形.py" />
+      </list>
+    </option>
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="dcpWteUY" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="465" />
+    <option name="width" value="1110" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Course" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Python 400 集" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python 400 集" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="org.elm.workspace.PROJECT_DISCOVERY" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Python 400 集\Chapter30  爬虫基础" />
+      <recent name="G:\Python 400 集\Chapter28  神经网络" />
+      <recent name="G:\Python 400 集\Chapter26  语音识别" />
+      <recent name="G:\Python 400 集\Chapter25  人脸识别" />
+      <recent name="G:\Python 400 集\Chapter24  pillow图像处理" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Python 400 集\Chapter30  Python操作Excel存储数据" />
+      <recent name="G:\Python 400 集\Chapter28  神经网络" />
+      <recent name="G:\Python 400 集\Chapter25  人脸识别\.idea" />
+      <recent name="G:\Python 400 集\Chapter24  pillow图像处理" />
+      <recent name="G:\Python 400 集\Chapter24  pillow图像处理\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.10.__all__">
+    <configuration name="03.SalaryTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python 400 集" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter09  模块" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter09  模块/03.SalaryTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05.import与from...import的区别" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python 400 集" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter09  模块" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter09  模块/05.import与from...import的区别.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10.__all__" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python 400 集" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter09  模块" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter09  模块/10.__all__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="21.绘制散点图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python 400 集" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据/21.绘制散点图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="23.绘制科赫曲线" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python 400 集" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapter05  函数" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapter05  函数/23.绘制科赫曲线.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.21.绘制散点图" />
+      <item itemvalue="Python.23.绘制科赫曲线" />
+      <item itemvalue="Python.05.import与from...import的区别" />
+      <item itemvalue="Python.03.SalaryTest" />
+      <item itemvalue="Python.10.__all__" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.10.__all__" />
+        <item itemvalue="Python.05.import与from...import的区别" />
+        <item itemvalue="Python.03.SalaryTest" />
+        <item itemvalue="Python.23.绘制科赫曲线" />
+        <item itemvalue="Python.21.绘制散点图" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b0a8f31-3e60-421b-b66b-9c3612c0211b" name="Default Changelist" comment="" />
+      <created>1618075692502</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618075692502</updated>
+      <workItem from="1618075695700" duration="248000" />
+      <workItem from="1618075971355" duration="10362000" />
+      <workItem from="1618149472455" duration="10880000" />
+      <workItem from="1618320698908" duration="8125000" />
+      <workItem from="1618385502819" duration="4703000" />
+      <workItem from="1618469814924" duration="23972000" />
+      <workItem from="1618572455552" duration="2867000" />
+      <workItem from="1618652929371" duration="8654000" />
+      <workItem from="1618734891485" duration="9281000" />
+      <workItem from="1618901624907" duration="10293000" />
+      <workItem from="1619068298297" duration="11757000" />
+      <workItem from="1619165756167" duration="16029000" />
+      <workItem from="1619277823037" duration="13562000" />
+      <workItem from="1619400235877" duration="9689000" />
+      <workItem from="1619526566271" duration="747000" />
+      <workItem from="1619534673032" duration="2645000" />
+      <workItem from="1619537522339" duration="5481000" />
+      <workItem from="1619572491180" duration="3786000" />
+      <workItem from="1619628000052" duration="1125000" />
+      <workItem from="1619686778191" duration="383000" />
+      <workItem from="1619698765171" duration="1500000" />
+      <workItem from="1619708812355" duration="897000" />
+      <workItem from="1619767357605" duration="14233000" />
+      <workItem from="1619849717184" duration="6039000" />
+      <workItem from="1619876118823" duration="9469000" />
+      <workItem from="1619888537124" duration="3949000" />
+      <workItem from="1619962635949" duration="2233000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_in_02_子进程的创建与执行_py - 2021.04.11 at 20h 16m 36s.xml">
+      <configuration name="pytest in 02.子进程的创建与执行.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_02_子进程的创建与执行_py - 2021.04.11 at 20h 18m 04s.xml">
+      <configuration name="pytest in 02.子进程的创建与执行.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_02_子进程的创建与执行_py - 2021.04.11 at 20h 19m 54s.xml">
+      <configuration name="pytest in 02.子进程的创建与执行.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_02_子进程的创建与执行_py - 2021.04.11 at 20h 21m 36s.xml">
+      <configuration name="pytest in 02.子进程的创建与执行.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_18_线程共享全局变量_py - 2021.04.13 at 22h 26m 27s.xml">
+      <configuration name="pytest in 18.线程共享全局变量.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_18_线程共享全局变量_py - 2021.04.13 at 22h 27m 04s.xml">
+      <configuration name="pytest in 18.线程共享全局变量.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="192909000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16621985" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="aws.explorer" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Kubernetes" order="4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3298969" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.43151695" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39911634" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.5154639" />
+      <window_info anchor="bottom" id="Educational.CheckDetails" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4064801" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Elm Compiler" order="11" weight="0.3298969" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Jupyter" order="15" weight="0.24594992" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Packages" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Cargo" order="4" />
+      <window_info anchor="right" id="R Graphics" order="5" />
+      <window_info anchor="right" id="Kubernetes Explorer" order="6" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="right" id="SciView" order="8" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Elm" order="10" />
+      <window_info anchor="right" id="Google Cloud Storage" order="11" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_400_$01match.coverage" NAME="01match方法的使用 Coverage Results" MODIFIED="1618744582829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter23  正则表达式" />
+    <SUITE FILE_PATH="coverage/Python_400_$13_.coverage" NAME="13.调整图像的亮度 Coverage Results" MODIFIED="1619090207699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter24  pillow图像处理" />
+    <SUITE FILE_PATH="coverage/Python_400_$09_.coverage" NAME="09.获取列名与列数之间的关系 Coverage Results" MODIFIED="1619788364300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$02_UDP_socket.coverage" NAME="02.使用UDP socket来接收数据 Coverage Results" MODIFIED="1618395605970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter19  网络编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$04_PocketSphinx.coverage" NAME="04.使用PocketSphinx实现语音转换文本 Coverage Results" MODIFIED="1619366207824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter26  语音识别" />
+    <SUITE FILE_PATH="coverage/Python_400_$11_excel.coverage" NAME="11.写入数据到excel中 Coverage Results" MODIFIED="1619874367628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$02_.coverage" NAME="02.获取工作表的名称 Coverage Results" MODIFIED="1619783209036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$01_UDP_socket.coverage" NAME="01.使用UDP socket来发送数据 Coverage Results" MODIFIED="1618395123093" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter19  网络编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$pytest_in_02__py.coverage" NAME="pytest in 02.子进程的创建与执行.py Coverage Results" MODIFIED="1618143694809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter18  并发编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$17_.coverage" NAME="17.拆分单元格 Coverage Results" MODIFIED="1619877836784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$16_Xpath.coverage" NAME="16.Xpath选择所有节点 Coverage Results" MODIFIED="1619542933368" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  爬虫基础" />
+    <SUITE FILE_PATH="coverage/Python_400_$03_UDP.coverage" NAME="03.UDP协议下的多线程聊天程序 Coverage Results" MODIFIED="1618494890197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter19  网络编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$07_iter_row.coverage" NAME="07.iter_row的使用 Coverage Results" MODIFIED="1619787825229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$09_TCP.coverage" NAME="09.TCP多线程完成聊天客户端 Coverage Results" MODIFIED="1618566609984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter19  网络编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$10___all__.coverage" NAME="10.__all__ Coverage Results" MODIFIED="1619964558332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter09  模块" />
+    <SUITE FILE_PATH="coverage/Python_400_$06_.coverage" NAME="06.检测多张人脸 Coverage Results" MODIFIED="1619360171954" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter25  人脸识别" />
+    <SUITE FILE_PATH="coverage/Python_400_$03_PocketSphinx.coverage" NAME="03.使用PocketSphinx实现语音转换文本 Coverage Results" MODIFIED="1619365734662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter26  语音识别" />
+    <SUITE FILE_PATH="coverage/Python_400_$bs4HTMLhtml.coverage" NAME="bs4中HTML解析器解析html文档 Coverage Results" MODIFIED="1619540747261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  爬虫基础" />
+    <SUITE FILE_PATH="coverage/Python_400_$14__.coverage" NAME="14.修改样式 设置字体 Coverage Results" MODIFIED="1619876215707" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$20_.coverage" NAME="20.绘制气泡图 Coverage Results" MODIFIED="1619882393366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$07_TCPQQ.coverage" NAME="07.TCP模拟QQ服务器端 Coverage Results" MODIFIED="1618561112636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter19  网络编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$12__.coverage" NAME="12.利用消息队列来实现进程间通信 以读写者问题为例 Coverage Results" MODIFIED="1618235817343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter18  并发编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$06_TCPQQ.coverage" NAME="06.TCP模拟QQ客户端 Coverage Results" MODIFIED="1618561118658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter19  网络编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$pytest_in_18__py.coverage" NAME="pytest in 18.线程共享全局变量.py Coverage Results" MODIFIED="1618324022902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter18  并发编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$11_MySQL.coverage" NAME="11.操作MySQL数据库查询一条数据 Coverage Results" MODIFIED="1618745329783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter15  数据库编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$css.coverage" NAME="css选择器 Coverage Results" MODIFIED="1619541792447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  爬虫基础" />
+    <SUITE FILE_PATH="coverage/Python_400_$04_TFTP.coverage" NAME="04.TFTP下载器客户端 Coverage Results" MODIFIED="1618500350023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter19  网络编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$01_Image.coverage" NAME="01.Image对象打开图片 Coverage Results" MODIFIED="1618747435724" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter24  pillow图像处理" />
+    <SUITE FILE_PATH="coverage/Python_400_$14_.coverage" NAME="14.方法选择器 Coverage Results" MODIFIED="1619542907170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  爬虫基础" />
+    <SUITE FILE_PATH="coverage/Python_400_$16_Xpath__1_.coverage" NAME="16.Xpath选择所有节点 (1) Coverage Results" MODIFIED="1619616153404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter29  爬虫基础" />
+    <SUITE FILE_PATH="coverage/Python_400_$28_mean.coverage" NAME="28.mean Coverage Results" MODIFIED="1618075725402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter16  numpy" />
+    <SUITE FILE_PATH="coverage/Python_400_$01_.coverage" NAME="01.读取图片 Coverage Results" MODIFIED="1619271098825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter25  人脸识别/.idea" />
+    <SUITE FILE_PATH="coverage/Python_400_$01_pyttsx.coverage" NAME="01.使用pyttsx将文本转换语音 Coverage Results" MODIFIED="1619363629798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter26  语音识别/.idea" />
+    <SUITE FILE_PATH="coverage/Python_400_$08_.coverage" NAME="08.部分行部分列的读取 Coverage Results" MODIFIED="1619788027714" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$01___1_.coverage" NAME="01.高阶函数的概念 (1) Coverage Results" MODIFIED="1618567904041" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter22  函数式编程和高阶函数" />
+    <SUITE FILE_PATH="coverage/Python_400_$02_SAPI.coverage" NAME="02.使用SAPI完成文本转语音 Coverage Results" MODIFIED="1619363656800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter26  语音识别/.idea" />
+    <SUITE FILE_PATH="coverage/Python_400_$04_Process_join.coverage" NAME="04.Process.join方法的使用 Coverage Results" MODIFIED="1618147542440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter18  并发编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$17_ImageFont.coverage" NAME="17.ImageFont的使用 Coverage Results" MODIFIED="1619093232132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter24  pillow图像处理" />
+    <SUITE FILE_PATH="coverage/Python_400_$21_.coverage" NAME="21.绘制散点图 Coverage Results" MODIFIED="1619883323466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$01_workbook.coverage" NAME="01.获取workbook对象 Coverage Results" MODIFIED="1619788731681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$05.coverage" NAME="05自定义图 Coverage Results" MODIFIED="1619536215657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter28  神经网络" />
+    <SUITE FILE_PATH="coverage/Python_400_$18_.coverage" NAME="18.绘制饼图 Coverage Results" MODIFIED="1619879702552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$16_threading.coverage" NAME="16.使用threading模块创建线程 Coverage Results" MODIFIED="1618322235873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter18  并发编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$05_.coverage" NAME="05.人脸检测 Coverage Results" MODIFIED="1619356870851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter25  人脸识别" />
+    <SUITE FILE_PATH="coverage/Python_400_$05_importfrom___import.coverage" NAME="05.import与from...import的区别 Coverage Results" MODIFIED="1619964508802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter09  模块" />
+    <SUITE FILE_PATH="coverage/Python_400_$13_excel_cell.coverage" NAME="13.写入数据到excel中 用cell进行写入 Coverage Results" MODIFIED="1619875119623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$07_.coverage" NAME="07.检测视频中的人脸 Coverage Results" MODIFIED="1619361088901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter25  人脸识别" />
+    <SUITE FILE_PATH="coverage/Python_400_$06_filter.coverage" NAME="06.高阶函数filter的使用 Coverage Results" MODIFIED="1618571117660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter22  函数式编程和高阶函数" />
+    <SUITE FILE_PATH="coverage/Python_400_$07.coverage" NAME="07归并排序 Coverage Results" MODIFIED="1618149556056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter20  算法" />
+    <SUITE FILE_PATH="coverage/Python_400_$05_TCPServer.coverage" NAME="05.TCPServer Coverage Results" MODIFIED="1618501498346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter19  网络编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$02___map.coverage" NAME="02.高阶函数  map Coverage Results" MODIFIED="1618569118782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter22  函数式编程和高阶函数" />
+    <SUITE FILE_PATH="coverage/Python_400_$11_.coverage" NAME="11.图像的合成 Coverage Results" MODIFIED="1619088703290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter24  pillow图像处理" />
+    <SUITE FILE_PATH="coverage/Python_400_$children.coverage" NAME="children获取子节点 Coverage Results" MODIFIED="1619540888825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  爬虫基础" />
+    <SUITE FILE_PATH="coverage/Python_400_$15_xpath.coverage" NAME="15.xpath的使用 Coverage Results" MODIFIED="1619542955137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  爬虫基础" />
+    <SUITE FILE_PATH="coverage/Python_400_$04.coverage" NAME="04查看默认图 Coverage Results" MODIFIED="1619536137615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter28  神经网络" />
+    <SUITE FILE_PATH="coverage/Python_400_$22_.coverage" NAME="22.读取图片像素 Coverage Results" MODIFIED="1619188058935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter24  pillow图像处理" />
+    <SUITE FILE_PATH="coverage/Python_400_$12_excel_range.coverage" NAME="12.写入数据到excel中 用range进行写入 Coverage Results" MODIFIED="1619874753351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$15_.coverage" NAME="15.对单元格设置行高和列宽 Coverage Results" MODIFIED="1619876993474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$23_.coverage" NAME="23.绘制科赫曲线 Coverage Results" MODIFIED="1619963652541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter05  函数" />
+    <SUITE FILE_PATH="coverage/Python_400_$11___.coverage" NAME="11.实现多进程之间的一个数据共享--消息队列 Coverage Results" MODIFIED="1618234689907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter18  并发编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$04_.coverage" NAME="04.获取单元格对象以及对应的值 Coverage Results" MODIFIED="1619784759655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$06____.coverage" NAME="06.读取整行 整列 部分行 部分列 Coverage Results" MODIFIED="1619786768539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$02abc.coverage" NAME="02求a、b、c的组合 Coverage Results" MODIFIED="1619788420867" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter20  算法" />
+    <SUITE FILE_PATH="coverage/Python_400_$19_.coverage" NAME="19.绘制柱状图 Coverage Results" MODIFIED="1619880907294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$01matplotlibSigmoid.coverage" NAME="01使用matplotlib绘制Sigmoid函数 Coverage Results" MODIFIED="1619535246549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter28  神经网络" />
+    <SUITE FILE_PATH="coverage/Python_400_$02_yield.coverage" NAME="02.yield的使用 Coverage Results" MODIFIED="1619526191629" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter27  协程与异步IO/.idea" />
+    <SUITE FILE_PATH="coverage/Python_400_$01_pyttsx__1_.coverage" NAME="01.使用pyttsx将文本转换语音 (1) Coverage Results" MODIFIED="1619435115543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter26  语音识别" />
+    <SUITE FILE_PATH="coverage/Python_400_$12_.coverage" NAME="12.调整图像的色彩 Coverage Results" MODIFIED="1619089889761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter24  pillow图像处理" />
+    <SUITE FILE_PATH="coverage/Python_400_$.coverage" NAME="获取节点文本内容 Coverage Results" MODIFIED="1619541425292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  爬虫基础" />
+    <SUITE FILE_PATH="coverage/Python_400_$03TensorFlow.coverage" NAME="03TensorFlow的第一程序 Coverage Results" MODIFIED="1619536044674" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter28  神经网络" />
+    <SUITE FILE_PATH="coverage/Python_400_$1.coverage" NAME="1 Coverage Results" MODIFIED="1619188712910" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter25  人脸识别/.idea" />
+    <SUITE FILE_PATH="coverage/Python_400_$09MySQL.coverage" NAME="09操作MySQL数据库查询所有数据 Coverage Results" MODIFIED="1618745495120" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter15  数据库编程" />
+    <SUITE FILE_PATH="coverage/Python_400_$05_reduce__.coverage" NAME="05.高阶函数reduce() Coverage Results" MODIFIED="1618570672814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter22  函数式编程和高阶函数" />
+    <SUITE FILE_PATH="coverage/Python_400_$08.coverage" NAME="08顺序查找法 Coverage Results" MODIFIED="1618075737262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter20  算法" />
+    <SUITE FILE_PATH="coverage/Python_400_$10_.coverage" NAME="10.为图像添加滤镜 Coverage Results" MODIFIED="1619003929734" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter24  pillow图像处理" />
+    <SUITE FILE_PATH="coverage/Python_400_$02___.coverage" NAME="02.新增功能  加载主窗口 Coverage Results" MODIFIED="1618075767094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter13  游戏编程(上)" />
+    <SUITE FILE_PATH="coverage/Python_400_$03___.coverage" NAME="03.创建_获取_删除工作表 Coverage Results" MODIFIED="1619783876236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$03_.coverage" NAME="03.修改图像尺寸 Coverage Results" MODIFIED="1619272917458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter25  人脸识别/.idea" />
+    <SUITE FILE_PATH="coverage/Python_400_$03_SalaryTest.coverage" NAME="03.SalaryTest Coverage Results" MODIFIED="1619964477897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter09  模块" />
+    <SUITE FILE_PATH="coverage/Python_400_$07_sorted.coverage" NAME="07.高阶函数sorted的使用 Coverage Results" MODIFIED="1618634436065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter22  函数式编程和高阶函数" />
+    <SUITE FILE_PATH="coverage/Python_400_$16_.coverage" NAME="16.合并单元格 Coverage Results" MODIFIED="1619877268506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$03_map.coverage" NAME="03.使用map将数字转换为字符串 Coverage Results" MODIFIED="1618569297691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter22  函数式编程和高阶函数" />
+    <SUITE FILE_PATH="coverage/Python_400_$04_map.coverage" NAME="04.高阶函数map传递两个列表参数的情况 Coverage Results" MODIFIED="1618570247511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter22  函数式编程和高阶函数" />
+    <SUITE FILE_PATH="coverage/Python_400_$10_WorkSheet.coverage" NAME="10.创建，删除WorkSheet Coverage Results" MODIFIED="1619864836362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$05___.coverage" NAME="05.获取单元格的行 列 值 Coverage Results" MODIFIED="1619785242496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter30  Python操作Excel存储数据" />
+    <SUITE FILE_PATH="coverage/Python_400_$01_turtle__.coverage" NAME="01.turtle--绘制螺旋 Coverage Results" MODIFIED="1618075797609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Chapter01  Python入门" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Chapter08  文件/08.二进制文件的拷贝.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08  文件/09.文件对象的属性.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08  文件/10.pickle().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08  文件/11.序列化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08  文件/12.反序列化.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08  文件/13.序列化与反序列化的总和使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="8" column="35" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08  文件/14.csv的读取.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08  文件/15.csv文件的写入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08  文件/16.使用os.system调用windows程序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08  文件/17.os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08  文件/18.os.path.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08  文件/19.联系.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08  文件/20.walk().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08  文件/21.shutil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter08  文件/22.目录树结构的展示.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09  模块/包内导入/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09  模块/01.使用math模块.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09  模块/02.关于导数包的细节.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-648">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09  模块/03.SalaryTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09  模块/04. from…import 导入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09  模块/05.import与from...import的区别.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09  模块/06.__import__().py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09  模块/07.importlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09  模块/08.关于模块导入的其他问题.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09  模块/09.模糊导入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09  模块/10.__all__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09  模块/11.systempath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09  模块/Calculator.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09  模块/Salary.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter09  模块/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter10  GUI编程(上)/01.第一个tkinter程序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter10  GUI编程(上)/02.主窗口的大小和位置·.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter10  GUI编程(上)/03.面向对象的方式编写GUI程序.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter10  GUI编程(上)/04.Label组件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter10  GUI编程(上)/05.Button组件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-252">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter10  GUI编程(上)/06.Entry组件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="31" selection-start-line="16" selection-start-column="31" selection-end-line="16" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter10  GUI编程(上)/07.Text组件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter10  GUI编程(上)/08.Radiobutton组件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter10  GUI编程(上)/09.Checkbutton组件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="7" column="25" lean-forward="true" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11  GUI编程(中)/01.Canvas的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11  GUI编程(中)/02.初识布局管理器.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-432">
+          <caret line="11" column="28" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11  GUI编程(中)/03.通过布局管理器制作计算器界面.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11  GUI编程(中)/04.pack布局管理器练习.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11  GUI编程(中)/05.place布局管理器的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11  GUI编程(中)/06.扑克牌游戏界面的设计.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11  GUI编程(中)/07.键盘事件和鼠标事件.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter11  GUI编程(中)/08.使用lambda表达式帮助传参.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="39" column="16" lean-forward="true" selection-start-line="39" selection-start-column="16" selection-end-line="39" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12  GUI编程(下)/03.颜色选择框.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter12  GUI编程(下)/08.记事本项目.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3034">
+          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter24  pillow图像处理/17.ImageFont的使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" column="10" lean-forward="true" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapter24  pillow图像处理/16.在原图片上进行绘制图形.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

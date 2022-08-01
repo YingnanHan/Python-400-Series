@@ -1,0 +1,5 @@
+print([x for x in range(1, 5)])
+print([x * 2 for x in range(1, 5)])
+print([x * 2 for x in range(1, 20) if x % 5 == 0])
+print([alphabet for alphabet in "abcdefg"])
+print([(row, col) for row in range(1, 10) for col in range(1, 10)])
